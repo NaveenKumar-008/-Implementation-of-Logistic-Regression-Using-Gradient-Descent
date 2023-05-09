@@ -110,24 +110,35 @@ np.mean(predict(res.x,X)==y)
 */
 ```
 ## Output:
+
+## Array Value of x
 ![image](https://user-images.githubusercontent.com/119389139/233685454-0adb4b94-f3fd-4e97-b8aa-6fcefb043d74.png)
 
+## Array Value of y
 ![image](https://user-images.githubusercontent.com/119389139/233685521-644c69ed-e33f-4c87-9328-fc0bef73714c.png)
 
+## Exam 1 - score graph
 ![image](https://user-images.githubusercontent.com/119389139/233688106-0246eac6-0a24-4b94-b162-1c08c4777107.png)
 
+## Sigmoid function graph
 ![image](https://user-images.githubusercontent.com/119389139/233685832-e45b2e1b-aaf0-4828-bb22-eb845e32030b.png)
 
+## X_train_grad value
 ![image](https://user-images.githubusercontent.com/119389139/233686027-0877fcff-43e1-458b-9c76-775fd2c09e98.png)
 
+## Y_train_grad value
 ![image](https://user-images.githubusercontent.com/119389139/233686071-d4e01b9b-5bf1-4b47-b546-9f82e30c6213.png)
 
+## Print res.x
 ![image](https://user-images.githubusercontent.com/119389139/233686143-e28eb2d2-b7b7-42ff-9ce9-6009bd8ebfc5.png)
 
+## Decision boundary - graph for exam score
 ![image](https://user-images.githubusercontent.com/119389139/233686223-36c51815-9370-4076-885a-85c553eee393.png)
 
+## Proability value 
 ![image](https://user-images.githubusercontent.com/119389139/233686314-7faa0663-8a83-49a7-9194-3941b2733b51.png)
 
+## Prediction value of mean
 ![image](https://user-images.githubusercontent.com/119389139/233686372-15b81f06-74a3-4c98-b2c2-278b326ee179.png)
 
 
